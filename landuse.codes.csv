@@ -1,0 +1,38 @@
+LEVEL-2-LUCODE,LEVEL-2-LUCODE-Description,LEVEL-1-LUCODE,LEVEL-1-LUCODE-Description
+11,Residential,1,Urban or Built-Up Land
+12,Commercial Services,1,Urban or Built-Up Land
+13,Industrial,1,Urban or Built-Up Land
+14,"Transportation, Communications",1,Urban or Built-Up Land
+15,Industrial and Commercial,1,Urban or Built-Up Land
+16,Mixed Urban or Built-Up Land,1,Urban or Built-Up Land
+17,Other Urban or Built-Up Land,1,Urban or Built-Up Land
+21,Cropland and Pasture,2,Agricultural Land
+22,"Orchards, Groves, Vineyards, Nurseries",2,Agricultural Land
+23,Confined Feeding Operations,2,Agricultural Land
+24,Other Agricultural Land,2,Agricultural Land
+31,Herbaceous Rangeland,3,Rangeland
+32,Shrub and Brush Rangeland,3,Rangeland
+33,Mixed Rangeland,3,Rangeland
+41,Deciduous Forest Land,4,Forest Land
+42,Evergreen Forest Land,4,Forest Land
+43,Mixed Forest Land,4,Forest Land
+51,Streams and Canals,5,Water
+52,Lakes,5,Water
+53,Reservoirs,5,Water
+54,Bays and Estuaries,5,Water
+61,Forested Wetlands,6,Wetland
+62,Nonforested Wetlands,6,Wetland
+71,Dry Salt Flats,7,Barren Land
+72,Beaches,7,Barren Land
+73,Sandy Areas Other than Beaches,7,Barren Land
+74,Bare Exposed Rock,7,Barren Land
+75,"Strip Mines, Quarries, and Gravel Pits",7,Barren Land
+76,Transitional Areas,7,Barren Land
+77,Mixed Barren Land,7,Barren Land
+81,Shrub and Brush Tundra,8,Tundra
+82,Herbaceous Tundra,8,Tundra
+83,Bare Ground,8,Tundra
+84,Wet Tundra,8,Tundra
+85,Mixed Tundra,8,Tundra
+91,Perennial Snowfields,9,Perennial Snow and Ice
+92,Glaciers,9,Perennial Snow and Ice

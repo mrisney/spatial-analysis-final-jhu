@@ -1,0 +1,1 @@
+SELECT farm_name, sample_name, distance_miles FROM farm_sample_distances WHERE distance_miles <= 1.001 ORDER BY distance_miles ASC;
